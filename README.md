@@ -8,3 +8,5 @@ TODO: Implement everything else
 I can design the electronics and 3D model to print a case, but would appreciate any help I can get on the rest.
 
 # UI 'flowchart' below
+
+![Spotify remote UI flowchart](https://user-images.githubusercontent.com/36117326/180668297-276e1961-c2de-47cc-a0a4-c211332b6cff.jpg)
