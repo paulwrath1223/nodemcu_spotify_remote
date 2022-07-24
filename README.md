@@ -1,5 +1,8 @@
 # nodemcu_spotify_remote
+
 A handheld remote for controlling and managing spotify playback
+
+I am using JetBrains CLion with PlatformIO, but I imagine you could work on this project in VSCode with PlatformIO too.
 
 NONE OF THIS CODE HAS BEEN TESTING AND IT PROBABLY WON'T WORK
 
